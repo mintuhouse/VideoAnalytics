@@ -1,0 +1,21 @@
+body {
+	background: white;
+}
+
+._AksharaCanvas{
+position: absolute;
+top: 35%;
+left: 4.5%;
+z-index: 2;
+display:none
+}
+	
+	
+._AksharaVideo {
+position: absolute;
+z-index:1
+}
+.bar_chart_tooltips_css {
+    background-color: white ! important;
+    border: 2px solid black ! important;   
+}
